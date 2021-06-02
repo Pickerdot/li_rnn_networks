@@ -6,7 +6,7 @@ Simulator of working memory on the prefrontal cortex (PFC)
 There are three notebooks here.
 - The fire rate vs time: firerate_vs_time/firerate_vs_time.ipynb
 - 3 back task: firerate_vs_time/3-bask.ipynb
-- PCA: PCA:PCA.ipynb
+- PCA: PCA/PCA.ipynb
 
 ![firerate_vs_time](demo.png)
 
