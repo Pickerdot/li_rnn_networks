@@ -5,7 +5,7 @@ Simulator of working memory on the prefrontal cortex (PFC)
 ## Demo
 There are three notebooks here.
 - The fire rate vs time: [firerate_vs_time/firerate_vs_time.ipynb](firerate_vs_time/firerate_vs_time.ipynb)
-- 3 back task: [firerate_vs_time/3-bask.ipynb](firerate_vs_time/3_back.ipynb)
+- 3 back task: [firerate_vs_time/3_bask.ipynb](firerate_vs_time/3_back.ipynb)
 - PCA: [PCA/PCA.ipynb](PCA/PCA.ipynb)
 
 ![firerate_vs_time](demo.png)
@@ -24,7 +24,7 @@ No GPU needed.
 
 [@picker_wtb](https://twitter.com/picker_wtb)
 
-blog:https://pickerlab.net/
+blog: https://pickerlab.net/
 
 ## License
 
